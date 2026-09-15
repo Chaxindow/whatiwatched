@@ -89,6 +89,8 @@ class EntryDialog(QDialog):
         self.form = form
 
         buttons = QDialogButtonBox(QDialogButtonBox.Ok | QDialogButtonBox.Cancel)
+        buttons.button(QDialogButtonBox.Ok).setText(tr("button_ok"))
+        buttons.button(QDialogButtonBox.Cancel).setText(tr("button_cancel"))
         buttons.accepted.connect(self._on_accept)
         buttons.rejected.connect(self.reject)
 

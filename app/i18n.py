@@ -69,6 +69,9 @@ STRINGS = {
     "context_edit": {"tr": "Düzenle", "en": "Edit"},
     "context_delete": {"tr": "Sil", "en": "Delete"},
 
+    "button_ok": {"tr": "Tamam", "en": "OK"},
+    "button_cancel": {"tr": "İptal", "en": "Cancel"},
+
     "delete_confirm_title": {"tr": "Silme Onayı", "en": "Delete Confirmation"},
     "delete_confirm_text": {"tr": "Bu kaydı silmek istediğine emin misin?", "en": "Are you sure you want to delete this entry?"},
 }
