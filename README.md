@@ -2,6 +2,8 @@
 
 Dizi, film, anime ve oyunlarını tek yerden takip etmek için kişisel bir masaüstü uygulaması. Ne izlediğini, ne izlemediğini, ne kadar beğendiğini ve notlarını kaydet.
 
+**[⬇ WhatIWatched.exe indir (en son sürüm)](../../releases/latest)**
+
 ![WhatIWatched ekran görüntüsü](assets/screenshot.png)
 
 ## Özellikler
